@@ -1,14 +1,14 @@
 # Codes for Manuscript: Generative AI-based design of hybrid transcriptional activator proteins with new DNA-binding specificity
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/kigalab/VAE-hybridTF/main/LICENSE)
-[![bioRxiv]((https://img.shields.io/badge/bioRxiv-10.64898%2F2025.12.31.697150-orange)](https://www.biorxiv.org/content/10.64898/2025.12.31.697150)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/kigalab/VAE-hybridTF/blob/main/LICENSE)
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.64898%2F2025.12.31.697150-orange)](https://www.biorxiv.org/content/10.64898/2025.12.31.697150)
 
 This repository contains the computational codes used in the study **“Generative AI-based design of hybrid transcriptional activator proteins with new DNA-binding specificity.”**
 
 The project explores multiple computational approaches to design hybrid transcription factors (TFs) by navigating the latent space of **variational autoencoders (VAEs)**. The aim is to generate novel proteins that exhibit functional properties intermediate between two parent transcription factor subfamilies.
 
-In our preprint (https://www.biorxiv.org/content/10.64898/2025.12.31.697150), we demonstrate that VAE-designed hybrid TFs derived from **LuxR** and **LasR** can exhibit intermediate DNA-binding specificities and transcriptional activities.
+In our [preprint](https://www.biorxiv.org/content/10.64898/2025.12.31.697150), we demonstrate that VAE-designed hybrid TFs derived from **LuxR** and **LasR** can exhibit intermediate DNA-binding specificities and transcriptional activities.
 
 ---
 
