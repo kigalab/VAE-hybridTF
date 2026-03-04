@@ -1,5 +1,6 @@
 # Codes for Manuscript: Generative AI-based design of hybrid transcriptional activator proteins with new DNA-binding specificity
 
+<img width="1389" height="536" alt="image" src="https://github.com/user-attachments/assets/c94347f5-c0c4-4b65-b434-45a2e8949108" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/kigalab/VAE-hybridTF/blob/main/LICENSE)
 [![bioRxiv](https://img.shields.io/badge/bioRxiv-10.64898%2F2025.12.31.697150-orange)](https://www.biorxiv.org/content/10.64898/2025.12.31.697150)
