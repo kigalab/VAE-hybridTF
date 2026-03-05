@@ -21,7 +21,7 @@ The repository is organized into several directories corresponding to different 
 
 Scripts for analyzing **sort-seq datasets** generated from promoter and protein variant libraries.
 
-### 2. VAE
+### 2. VAE (temporarily undisclosed) 
 
 Codes for training VAE models on transcription factor sequences and generating hybrid transcription factor variants by exploring the latent space between protein subfamilies.
 
